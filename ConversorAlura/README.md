@@ -1,6 +1,6 @@
 # Conversor-de-Moedas-ONE-T6
 
-Este é um Conversor de Moedas simples desenvolvido em Python, que utiliza a API exchangeratesapi.io para obter taxas de câmbio atualizadas em tempo real. O programa oferece interação via console, permitindo aos usuários converter valores entre diferentes moedas de forma prática e eficaz.
+Este é um Conversor de Moedas simples desenvolvido em Java, que utiliza a API exchangeratesapi.io para obter taxas de câmbio atualizadas em tempo real. O programa oferece interação via console, permitindo aos usuários converter valores entre diferentes moedas de forma prática e eficaz.
 
 <h2>⚙️Tecnologias Utilizadas</h2>
 
